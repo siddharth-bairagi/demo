@@ -1,2 +1,3 @@
 # demo
-first repo
+first repo.
+learning git.
